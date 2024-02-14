@@ -26,7 +26,7 @@ function handleEnvelopeClick(x, y) {
 
   // Пути к изображениям сердечек
   const heartImages = [
-    "./images/heart3.jpg",
+    "../images/heart3.jpg",
     "/images/heart4.png",
     "/images/heart5.png",
     "/images/heart6.png",
